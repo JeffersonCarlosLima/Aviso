@@ -7,7 +7,7 @@
     width: auto;
     color: white;
     height: 500px;
-    justify-content: center;
+    justify-content:start;
     align-items: center;
     padding: 120px;
     gap: 24px;
